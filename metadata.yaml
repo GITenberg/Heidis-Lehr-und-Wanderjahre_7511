@@ -1,0 +1,32 @@
+_repo: Heidis-Lehr-und-Wanderjahre_7511
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Heusser, Johanna Louise
+    - Spyri, Johanna Heusser
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_bookshelf:
+- DE Kinderbuch
+- Children's Literature
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7511'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grandfathers -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Switzerland -- History -- 19th century -- Fiction'
+- !lcsh 'Mountain life -- Switzerland -- Fiction'
+title: Heidis Lehr- und Wanderjahre
+url: http://www.gutenberg.org/ebooks/7511
